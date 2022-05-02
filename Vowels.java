@@ -18,4 +18,5 @@ class Vowels{
           System.out.println("Index of the consent is : " + i);
         }
       }
-      }
+    }
+}
